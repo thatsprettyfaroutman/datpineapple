@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 754.2 416.1" style="enable-background:new 0 0 754.2 416.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{
+		font-family:'Impact';
+	}
+	.st1{
+		font-size:186px;
+		fill:#0d2;
+		<!-- fill:#fff; -->
+		<!-- fill:#fc1; -->
+	}
+	.st2{
+		opacity:0.2;
+		<!-- fill:#e80; -->
+	}
+	.st3{
+		font-size:167.83px;
+		fill:#0c2;
+		fill:#000;
+		<!-- fill:#00a739; -->
+		opacity:0.4;
+		filter:url("#blur");
+	}
+	.st4{
+		font-size:33.5944px;
+	}
+</style>
+<filter id="blur">
+	<feGaussianBlur in="SourceGraphic" stdDeviation="5,5" />
+</filter>
+<text transform="matrix(1 -0.25 0 1 40 350)" class="st2 st0 st3">PINEAPPLE</text>
+<text transform="matrix(1 -0.25 0 1 0 354.5977)" class="st0 st1">PINEAPPLE</text>
+<text transform="matrix(1 -0.25 0 1 7.1429 189.6075)" class="st2 st0 st4">OPERATION</text>
+</svg>
